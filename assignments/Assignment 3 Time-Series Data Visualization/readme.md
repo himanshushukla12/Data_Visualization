@@ -41,7 +41,7 @@ Create line plots using either Plotly Express or Seaborn to show the minimum and
 
 ### Sample Visuals
 
-![Sample Plot - Plotly Express](https://github.com/himanshushukla12/Data_Visualization/blob/main/lab3/seaborn_plot.png?raw=true)
-![Sample Plot - Seaborn](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/lab3/seaborn_plot.png)
+![Sample Plot - Plotly Express](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/assignments/Assignment%203%20Time-Series%20Data%20Visualization/px_plot.png)
+![Sample Plot - Seaborn](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/assignments/Assignment%203%20Time-Series%20Data%20Visualization/seaborn_plot.png)
 
 **Note:** Concepts covered in this assignment will be discussed during the practice session in Week 4.
