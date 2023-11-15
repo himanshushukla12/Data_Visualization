@@ -54,3 +54,7 @@ Create a bubble plot for the cities to visualize the 4D data associated with eac
 - Unlike Matplotlib, Plotly has a direct way to create a bubble plot using scatter. Refer to the Plotly documentation [here](https://plotly.com/python/bubble-charts/) for more details.
 
 Feel free to explore and experiment with the data and visualization techniques. Good luck!
+
+# Sample 1
+![Sample 1](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/assignments/Assignment%207%20Multi-Dimensional%20Scaling/earthquake.png)
+
