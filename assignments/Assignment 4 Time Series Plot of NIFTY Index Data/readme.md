@@ -46,3 +46,15 @@ The goal of this analysis is to access live NSE (National Stock Exchange) market
 Sample plots for reference are attached to this readme.
 
 Feel free to explore and analyze the data further based on your requirements.
+
+Certainly! Here are the images embedded in the markdown:
+
+### Plot using Plotly Express
+
+![Plot using Plotly Express](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/assignments/Assignment%204%20Time%20Series%20Plot%20of%20NIFTY%20Index%20Data/Assn4.px.png)
+
+### Plot using Seaborn
+
+![Plot using Seaborn](https://raw.githubusercontent.com/himanshushukla12/Data_Visualization/main/assignments/Assignment%204%20Time%20Series%20Plot%20of%20NIFTY%20Index%20Data/Assn4.sns.png)
+
+Feel free to reach out if you have any more requests!
